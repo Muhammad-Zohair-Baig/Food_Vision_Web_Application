@@ -20,7 +20,7 @@
     <h2>Installation</h2>
     <h3>Clone the repository:</h3>
     <pre>
-      git clone https://github.com/[username]/food-vision.git
+      git clone https://github.com/Muhammad-Zohair-Baig/Food_Vision_Web_Application.git
     </pre>
     <h3>Install the required packages:</h3>
     <pre>
@@ -33,6 +33,7 @@
     <h3>Start the React app:</h3>
     <pre>
       cd client
+      npm i
       npm start
     </pre>
     <p>Visit http://localhost:3000 in your web browser to access the Food Vision web application.</p>
